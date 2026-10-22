@@ -88,11 +88,15 @@ A project focused on practical digital solutions for everyday needs.
 
 ## 🌌 3D Contribution Graph
 
+
 <div align="center">
-
-<img src="https://github.com/rrbkabir2/rrbkabir2/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph"/>
-
+  <img
+    src="https://raw.githubusercontent.com/rrbkabir2/rrbkabir2/output/profile-3d-contrib/profile-night-green.svg"
+    alt="3D GitHub Contribution Graph"
+    width="800"
+  />
 </div>
+
 
 ## 🐍 Contribution Snake
 
