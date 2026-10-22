@@ -1,161 +1,113 @@
-<div align="center">
+# 👋 Hi, I'm Kabir Ramcharan Bundele
 
-# 👋 Hi, I'm Kabir
+### Full-Stack Developer | Software Engineer | Builder of Digital Products
 
-### 🎓 MCA Student | Aspiring Full-Stack Developer
+I enjoy building practical software, modern web applications, and developer tools that solve real-world problems. I focus on clean architecture, useful features, performance, and continuously improving my engineering skills.
 
-**Exploring Backend Engineering, Artificial Intelligence & Data Science**
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-Development-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial-Intelligence-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine-Learning-6366F1?style=for-the-badge" />
-</p>
-
-<p>
-  <a href="https://github.com/rrbkabir2">
-    <img src="https://img.shields.io/badge/GitHub-rrbkabir2-181717?style=flat-square&logo=github" />
-  </a>
-</p>
-
-</div>
+- 🔭 **Currently working on:** Web applications, AI-powered tools, and 3D model export utilities
+- 🌱 **Exploring:** Modern JavaScript ecosystems, TypeScript, AI integration, and 3D web technologies
+- 💡 **Interested in:** Full-stack development, automation, UI/UX, and open-source software
+- 🚀 **Goal:** Build reliable, scalable, and impactful software
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Tech Stack
 
-I'm currently pursuing my **Master of Computer Applications (MCA)**,
-exploring software development, intelligent systems, and modern technologies.
+<!-- Customize these technologies to match your actual experience. -->
 
-I'm interested in building practical applications while developing
-my understanding of backend engineering and AI-driven solutions.
+**Languages & Web**
 
-- 🎓 Pursuing MCA
-- 💻 Aspiring full-stack developer
-- ⚙️ Interested in backend development and database systems
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📊 Studying Data Science and Deep Learning
-- 🎨 Interested in UI/UX design and prototyping
-- ☁️ Exploring cloud technologies and modern development tools
-- 🚀 Learning by building projects and experimenting with new ideas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
----
+**Tools & Technologies**
 
-## 🧠 Areas of Interest
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Development
-
-Building web applications and exploring how frontend interfaces
-connect with backend services and databases.
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend Engineering
-
-Exploring server-side development, APIs, databases,
-authentication, and application architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence & ML
-
-Learning about intelligent systems, machine learning algorithms,
-and practical AI applications.
-
-</td>
-<td width="50%">
-
-### 📊 Data Science & Deep Learning
-
-Exploring data analysis, machine learning concepts,
-neural networks, and deep learning fundamentals.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming & Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript and PHP" />
-</p>
-
-### 🗄️ Databases & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="MongoDB and Supabase" />
-</p>
-
-### 🎨 Design & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Figma, Git, GitHub and VS Code" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-AI%20Development-171717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lovable-AI%20App%20Builder-FF4F8B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-Exploring-06B6D4?style=flat-square" />
-</p>
-
-> AI, machine learning, data science, and deep learning are also
-> areas I'm interested in studying and developing further.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🥛 Mitra
-
-A project exploring digital solutions for milk delivery and
-customer-vendor workflows.
-
-🔗 [Explore Repository](https://github.com/rrbkabir2/Mitra)
-
-### 🧊 Tripo3D Model Downloader & Exporter
-
-A project focused on 3D model downloading and exporting
-within browser-based 3D environments.
-
-🔗 [Explore Repository](https://github.com/rrbkabir2/Tripo3D.ai-Model-Downloader-Exporter)
+A tamper-evident trust layer for households and local vendors, designed to simplify daily milk delivery tracking and create a reliable delivery history.
 
 ### 🤖 AI Email Assistant
-
-An exploration of AI-assisted email workflows and productivity.
-
-🔗 [Explore Repository](https://github.com/rrbkabir2/AI-EmailAssistant)
+A web-based project focused on making email-related workflows more convenient with AI-assisted functionality.
 
 ### 🎨 Design Inside
+A modern, responsive web design project emphasizing clean interfaces, smooth user experiences, and structured layouts.
 
-A design-focused project exploring digital experiences and interfaces.
+### 📚 Online Library Management System
+A web application for organizing library operations and managing library-related information.
 
-🔗 [Explore Repository](https://github.com/rrbkabir2/Design_Inside)
+### 🧊 Tripo3D AI Model Downloader & Exporter
+A browser-based JavaScript utility for exporting loaded Tripo3D models from a Three.js scene into GLB files while preserving supported geometry, materials, groups, and textures.
+
+### 🌐 Xtreme Doors
+A marketing website and administration dashboard featuring a quote-request workflow and role-based access.
+
+> Explore my repositories for more projects, experiments, and ongoing improvements.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
-<div align="center">
+<!-- Replace YOUR_GITHUB_USERNAME if your username changes. -->
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=rrbkabir2&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub statistics"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrbkabir2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrbkabir2&layout=compact&theme=tokyonight&hide_border=true"
-  alt
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrbkabir2&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rrbkabir2&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rrbkabir2&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🔒 About Private Contributions
+
+GitHub can display contributions made to private repositories without revealing their source code.
+
+To enable this:
+
+1. Open your [GitHub contribution settings](https://github.com/settings/profile).
+2. Find the **Contributions & Activity** section.
+3. Enable **Private contributions** or **Include private contributions on my profile** (the wording may vary).
+4. Return to your profile and check your contribution graph.
+
+**Important:** Your profile README cannot force GitHub's native contribution graph to display a specific number. GitHub calculates contributions according to its contribution rules. External statistics services may count commits differently, and private activity should never be presented as publicly verifiable if it isn't.
+
+---
+
+## 🎯 My Development Philosophy
+
+- Write maintainable, understandable code.
+- Build for real users and practical use cases.
+- Improve performance, reliability, and accessibility.
+- Learn continuously and experiment with new technologies.
+- Prefer meaningful improvements over unnecessary complexity.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and building useful software.
+
+- 💻 **GitHub:** [@rrbkabir2](https://github.com/rrbkabir2)
+- 📂 **Repositories:** [Explore my projects](https://github.com/rrbkabir2?tab=repositories)
+
+---
+
+*“Build things that matter. Keep learning. Make every iteration better.”*
+
+⭐ If you find one of my projects useful, consider giving it a star!
