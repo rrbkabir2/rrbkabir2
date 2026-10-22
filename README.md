@@ -83,7 +83,6 @@ A project focused on practical digital solutions for everyday needs.
 
 <img height="165" src="https://streak-stats.demolab.com?user=rrbkabir2&theme=github-dark&hide_border=true&background=00000000" alt="GitHub contribution streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rrbkabir2&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub statistics"/>
 
 </div>
 
