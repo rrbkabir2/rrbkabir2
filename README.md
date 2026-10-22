@@ -1,113 +1,132 @@
-# 👋 Hi, I'm Kabir Ramcharan Bundele
+ <div align="center">
 
-### Full-Stack Developer | Software Engineer | Builder of Digital Products
+# 👋 Hi, I'm Kabir
 
-I enjoy building practical software, modern web applications, and developer tools that solve real-world problems. I focus on clean architecture, useful features, performance, and continuously improving my engineering skills.
+### Building • Learning • Exploring Technology
 
-- 🔭 **Currently working on:** Web applications, AI-powered tools, and 3D model export utilities
-- 🌱 **Exploring:** Modern JavaScript ecosystems, TypeScript, AI integration, and 3D web technologies
-- 💡 **Interested in:** Full-stack development, automation, UI/UX, and open-source software
-- 🚀 **Goal:** Build reliable, scalable, and impactful software
+*An MCA student passionate about software development, AI tools, creative problem-solving, and building useful digital projects.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/rrbkabir2)
 
-## 🛠️ Tech Stack
-
-<!-- Customize these technologies to match your actual experience. -->
-
-**Languages & Web**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-**Tools & Technologies**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+</div>
 
 ---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA student with a background in BCA.
+- 💻 Exploring software development through hands-on projects.
+- 🤖 Interested in AI-powered applications and developer tools.
+- 🧊 Exploring 3D web technologies and model-export workflows.
+- 🌱 Always learning, experimenting, and improving.
+
+## 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" alt="Technology stack"/>
+</p>
+
+**AI & Development Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=flat-square&logo=lovable&logoColor=white" alt="Lovable"/>
+  <img src="https://img.shields.io/badge/Gravity-Explore-6366F1?style=flat-square" alt="Gravity"/>
+</p>
+
+*Technology icons are examples. Keep only the languages, frameworks, and tools you actually use.*
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence and AI-assisted development
+- Web application development
+- 3D graphics, Three.js, and GLB/GLTF workflows
+- UI/UX design and modern interfaces
+- Automation and developer productivity
 
 ## 🚀 Featured Projects
 
-### 🥛 Mitra
-A tamper-evident trust layer for households and local vendors, designed to simplify daily milk delivery tracking and create a reliable delivery history.
+### 🧊 Tripo3D Model Downloader & Exporter
+
+A browser-based tool for exploring 3D model extraction and GLB/GLTF export workflows.
+
+[**View Repository →**](https://github.com/rrbkabir2/Tripo3D.ai-Model-Downloader-Exporter)
 
 ### 🤖 AI Email Assistant
-A web-based project focused on making email-related workflows more convenient with AI-assisted functionality.
+
+An AI-focused project exploring smarter email workflows.
+
+[**View Repository →**](https://github.com/rrbkabir2/AI-EmailAssistant)
 
 ### 🎨 Design Inside
-A modern, responsive web design project emphasizing clean interfaces, smooth user experiences, and structured layouts.
 
-### 📚 Online Library Management System
-A web application for organizing library operations and managing library-related information.
+A design-focused project exploring modern web layouts and user interfaces.
 
-### 🧊 Tripo3D AI Model Downloader & Exporter
-A browser-based JavaScript utility for exporting loaded Tripo3D models from a Three.js scene into GLB files while preserving supported geometry, materials, groups, and textures.
+[**View Repository →**](https://github.com/rrbkabir2/Design_Inside)
 
-### 🌐 Xtreme Doors
-A marketing website and administration dashboard featuring a quote-request workflow and role-based access.
+### 🥛 Mitra
 
-> Explore my repositories for more projects, experiments, and ongoing improvements.
+A project focused on practical digital solutions for everyday needs.
 
----
+[**View Repository →**](https://github.com/rrbkabir2/Mitra)
 
-## 📊 GitHub Overview
+## 🏆 Certifications & Achievements
 
-<!-- Replace YOUR_GITHUB_USERNAME if your username changes. -->
+- 🎓 Bachelor of Computer Applications (BCA) — Completed
+- 📜 Certifications: Add your completed certifications here.
+- 🏅 Achievements: Add your verified achievements here.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrbkabir2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrbkabir2&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rrbkabir2&theme=tokyonight&hide_border=true)
+<img height="165" src="https://streak-stats.demolab.com?user=rrbkabir2&theme=github-dark&hide_border=true&background=00000000" alt="GitHub contribution streak"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rrbkabir2&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub statistics"/>
 
-## 📈 Contribution Activity
+</div>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rrbkabir2&theme=tokyo-night&hide_border=true)
+## 🌌 3D Contribution Graph
 
----
+<div align="center">
 
-## 🔒 About Private Contributions
+<img src="https://github.com/rrbkabir2/rrbkabir2/raw/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph"/>
 
-GitHub can display contributions made to private repositories without revealing their source code.
+</div>
 
-To enable this:
+## 🐍 Contribution Snake
 
-1. Open your [GitHub contribution settings](https://github.com/settings/profile).
-2. Find the **Contributions & Activity** section.
-3. Enable **Private contributions** or **Include private contributions on my profile** (the wording may vary).
-4. Return to your profile and check your contribution graph.
+<div align="center">
 
-**Important:** Your profile README cannot force GitHub's native contribution graph to display a specific number. GitHub calculates contributions according to its contribution rules. External statistics services may count commits differently, and private activity should never be presented as publicly verifiable if it isn't.
+<img src="https://raw.githubusercontent.com/rrbkabir2/rrbkabir2/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
 
 ---
 
-## 🎯 My Development Philosophy
+## 💡 Future Project Template
 
-- Write maintainable, understandable code.
-- Build for real users and practical use cases.
-- Improve performance, reliability, and accessibility.
-- Learn continuously and experiment with new technologies.
-- Prefer meaningful improvements over unnecessary complexity.
+*Use this section whenever you want to showcase another project.*
 
----
+**Project Name:** Your project name
 
-## 🤝 Let's Connect
+**Description:** Briefly explain what it does and the problem it solves.
 
-I'm always interested in learning, collaborating, and building useful software.
+**Technologies:** List the languages, frameworks, and tools used.
 
-- 💻 **GitHub:** [@rrbkabir2](https://github.com/rrbkabir2)
-- 📂 **Repositories:** [Explore my projects](https://github.com/rrbkabir2?tab=repositories)
+**Highlights:** Mention the key features or what you learned.
+
+**Repository:** `https://github.com/rrbkabir2/your-project`
 
 ---
 
-*“Build things that matter. Keep learning. Make every iteration better.”*
+<div align="center">
 
-⭐ If you find one of my projects useful, consider giving it a star!
+### “The goal of AI is not to replace human intelligence, but to augment it.”
+
+⭐ If you find my projects useful, consider giving them a star! ⭐
+
+**Thanks for visiting my profile!**
+
+</div>
