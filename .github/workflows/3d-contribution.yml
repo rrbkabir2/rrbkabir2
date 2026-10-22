@@ -1,4 +1,3 @@
-
 name: Generate 3D Contribution Graph
 
 on:
@@ -13,6 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
       - name: Generate 3D graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
