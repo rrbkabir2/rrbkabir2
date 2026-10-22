@@ -91,7 +91,7 @@ A project focused on practical digital solutions for everyday needs.
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/rrbkabir2/rrbkabir2/output/profile-night-green.svg"
+    src="https://raw.githubusercontent.com/rrbkabir2/rrbkabir2/output/profile-night-green.svg?v=2"
     alt="3D GitHub Contribution Graph"
     width="800"
   />
